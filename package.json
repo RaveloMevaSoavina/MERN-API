@@ -1,0 +1,15 @@
+{
+  "name": "backend-api",
+  "version": "1.0.1",
+  "description": "webservice for front-end developpement",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/RaveloMevaSoavina/MERN-API.git"
+  },
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "author": "RaveloMevaSoavina",
+  "license": "MIT"
+}
